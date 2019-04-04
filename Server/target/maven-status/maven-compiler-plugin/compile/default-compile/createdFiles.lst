@@ -1,3 +1,4 @@
-chapter2/echoserver/EchoServer.class
 chapter2/echoserver/EchoServer$1.class
+chapter2/echoserver/HttpRequestHandler.class
 chapter2/echoserver/EchoServerHandler.class
+chapter2/echoserver/EchoServer.class

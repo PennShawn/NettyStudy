@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Client (1)" />
+        <module name="Client (2)" />
+        <module name="Client (3) (com.playcrab)" />
+        <module name="Server (1)" />
+        <module name="Server (2)" />
+        <module name="Server (3) (com.playcrab)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Client (3)" target="1.8" />
+      <module name="maven-archiver (1)" target="1.5" />
+      <module name="maven-archiver (2)" target="1.5" />
+      <module name="Server (3)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

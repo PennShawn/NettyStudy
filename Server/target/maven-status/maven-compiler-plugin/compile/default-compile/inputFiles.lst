@@ -1,2 +1,3 @@
 /Users/playcrab/code/JavaCode/NettyPractice/Server/src/main/java/chapter2/echoserver/EchoServer.java
+/Users/playcrab/code/JavaCode/NettyPractice/Server/src/main/java/chapter2/echoserver/HttpRequestHandler.java
 /Users/playcrab/code/JavaCode/NettyPractice/Server/src/main/java/chapter2/echoserver/EchoServerHandler.java
